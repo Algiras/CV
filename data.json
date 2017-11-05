@@ -1,0 +1,213 @@
+{
+    "name": "Algimantas Krasauskas",
+    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAK8AAAAJGE3NTFmOGU4LTQ4YzYtNGEwMy1hNzk1LTNmMGFjZmU5YWFlZA.jpg",
+    "address": "Kaunas, Lithuania",
+    "email": "kras.algim@gmail.com",
+    "phone": "+44 7845037995",
+    "description": "Software challenge solver with experience in scalable applications and patterns. Have a preference homoiconic functional languages like Clojure and use personal practices that are based on work experience and book's like “Clean Code” by Robert C. Martin.",
+    "skills": [
+        "Effective Communication",
+        "Fast Prototyping",
+        "Agile Process Management",
+        "Architecting of Data Pipeline for Big Data System (Kafka, Hadoop, ES, Onyx) integration"
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Lithuanian"
+    ],
+    "accomplishements": [
+        {
+            "type": "Courses",
+            "entries": [
+                "Code School",
+                "Functional Programming principles in Scala",
+                "Pluralsight Courses",
+                "R-Programming"
+            ]
+        },
+        {
+            "type": "Certifications",
+            "entries": [
+                "Introduction to Data Science in Python",
+                "Introduction OAuth2, OpenID Connect",
+                "Getting Started with Enterprise Searcg using Apache Solr"
+            ]
+        }
+    ],
+    "other_sources": [
+        {
+            "type": "link",
+            "url": "www.linkedin.com/in/asimplek"
+        },
+        {
+            "type": "link",
+            "url": "https://github.com/Algiras"
+        }
+    ],
+    "other": [
+        "I am 26 Years old",
+        "Married"
+    ],
+    "education": [
+        {
+            "type": "University",
+            "name": "Kaunas University of Technology",
+            "location": "Kaunas, Lithuania",
+            "degree": "Bachelo's of Informatics",
+            "period": {
+                "started": {
+                    "year": 2009,
+                    "month": 9
+                },
+                "finished": {
+                    "year": 2013,
+                    "month": 7
+                }
+            },
+            "description": "Invested my time in learning about basic principles of Information Technology ."
+        }
+    ],
+    "volunteer_experience": [
+        {
+            "type": "Intership",
+            "company": "Tiny Lab Productions",
+            "location": "Kaunas, Lithuania",
+            "position": "Unity Game Developer",
+            "period": {
+                "started": {
+                    "year": 2014,
+                    "month": 12
+                },
+                "finished": {
+                    "year": 2015,
+                    "month": 2
+                }
+            },
+            "description": "Was exploring the way Tiny Lab Production team solves different type of problems. Work on one of their games using Unity, writing some awesome code using C#.",
+            "technologies": [
+                "Unity",
+                "C#"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "type": "Full Time",
+            "company": "Polecat",
+            "location": "Bristol UK",
+            "position": "Solution Engineer",
+            "period": {
+                "started": {
+                    "year": 2016,
+                    "month": 12
+                }
+            },
+            "highlights": [
+                "Moved the company's Chart/Search Building UX to HTML5 Redux SPA Applications from Flash Application",
+                "Transformed Monolithic Java Project to Micro-Service Driven Clojure Based Architecture",
+                "Introduce Onyx, Kafka and other Stream Processing Tools to make processing easier",
+                "WSO2IS Integration for OpenID Connect User Management"
+            ],
+            "technologies": [
+                "ES6",
+                "Redux",
+                "React",
+                "Most.js",
+                "RxJs",
+                "Java",
+                "Clojure",
+                "Component",
+                "Ring",
+                "Swagger",
+                "Elastic Search",
+                "Kafka",
+                "Onyx",
+                "Ansible",
+                "Python",
+                "Pandas"
+            ]
+        },
+        {
+            "type": "Full Time",
+            "company": "YachtWorld LLC",
+            "location": "Fareham UK",
+            "position": "Software Engineer",
+            "period": {
+                "started": {
+                    "year": 2015,
+                    "month": 4
+                },
+                "finished": {
+                    "year": 2016,
+                    "month": 4
+                }
+            },
+            "highlights": [
+                "Moved the company’s Monolithic Boats.com application to Node.js Micro-Service Driven Data Management Tool and migrating to ElasticSearch",
+                "Refactored multiple old Products to integrate with new Platform",
+                "Created a Tool to easily adjust decay weights on Fuzzy Searches that match Similar Posts/Boats and many other Entities for the user"
+            ],
+            "technologies": [
+                "hapi.js",
+                "Node.js",
+                "Scala",
+                "Play Framework",
+                "Java",
+                "PHP Zend Framework",
+                "Docker",
+                "ElasticSearch"
+            ]
+        },
+        {
+            "type": "Full Time",
+            "company": "SportLobster",
+            "location": "London UK",
+            "position": "Lead FrontEnd Engineer",
+            "period": {
+                "started": {
+                    "year": 2014,
+                    "month": 3
+                },
+                "finished": {
+                    "year": 2014,
+                    "month": 8
+                }
+            },
+            "highlights": [
+                "Transformed Backend Based UX to mixture of SPA using Backbone.js and Symphony Backend"
+            ],
+            "technologies": [
+                "PHP",
+                "Symphony",
+                "Backbone.js",
+                "Mustache.js"
+            ]
+        },
+        {
+            "type": "Full Time",
+            "company": "DODS Group PLC",
+            "location": "London UK",
+            "position": "FrontEnd Engineer",
+            "period": {
+                "started": {
+                    "year": 2013,
+                    "month": 9
+                },
+                "finished": {
+                    "year": 2014,
+                    "month": 3
+                }
+            },
+            "highlights": [
+                "Creating a FrontEnd for Document sharing/management platform by closely working with users",
+                "Writing a JS Parser to write automated documentation for the code base"
+            ],
+            "technologies": [
+                "Angular",
+                "Grunt",
+                "Dart"
+            ]
+        }
+    ]
+}
